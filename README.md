@@ -1,4 +1,4 @@
- <h1 align="center">PodVerse - The NextGen AI Podcast Platform</h1>
+ <h1 align="center">🎙️PodVerse - The NextGen AI Podcast Platform</h1>
 
 ![alt text](https://github.com/Shahsmit075/PodVerse/assets/119691937/4097a4ab-6753-4234-84ed-db2c7c286aad)
 
